@@ -11,5 +11,7 @@
             "email": "abrown@mobials.com"
         }
     ],
-    "require": {}
+    "require": {
+        "slim/slim": "^4.12"
+    }
 }
