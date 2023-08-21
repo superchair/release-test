@@ -1,0 +1,15 @@
+{
+    "name": "abrown/release-test",
+    "autoload": {
+        "psr-4": {
+            "Abrown\\ReleaseTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Brown",
+            "email": "abrown@mobials.com"
+        }
+    ],
+    "require": {}
+}
